@@ -1,0 +1,7 @@
+# 5. Attack Vector and Vulnerabilities Exploited
+
+The cyberattack on Medibank in 2022 was executed through a series of sophisticated techniques, primarily focusing on exploiting vulnerabilities within the organization's network infrastructure. The attacker initially targeted a third-party IT services contractor to gain access to user credentials, which were then leveraged to infiltrate Medibank's systems. This approach underscored the critical importance of robust vendor management practices and the need for stringent security protocols when engaging with external service providers.
+
+Moreover, the attacker capitalized on a misconfigured firewall within Medibank's network, exploiting this weakness to bypass additional security measures and gain unauthorized access. This highlights the significance of regularly assessing and updating firewall configurations to ensure they align with industry best practices and effectively mitigate potential threats.
+
+Once inside the network, the attacker employed various tactics to escalate privileges and expand their foothold. This included obtaining additional usernames and passwords through social engineering tactics or exploiting other vulnerabilities within Medibank's access control mechanisms. This emphasizes the need for comprehensive access management strategies, including multi-factor authentication and least privilege principles, to limit the potential impact of unauthorized access attempts.
